@@ -1,5 +1,5 @@
 # Title
-A-two-stage-preference-driven-multi-objective-evolutionary-algorithm-for-workflow-scheduling in the Cloud
+A two-stage preference driven multi-objective evolutionary algorithm for workflow scheduling in the Cloud
 
 # DOI
 https://doi.org/10.1016/j.eswa.2023.122009
